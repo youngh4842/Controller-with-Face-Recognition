@@ -35,7 +35,7 @@ Face-Recognition with ResNet + Door Lock Controller
  
  
 ## 4. 얼굴인식 과정
- ''' 
+ ''' word
  얼굴 검출 : dlib.get_frontal_face_detector
  ()특징 검출 : 68_face_landmarks
  npy 파일에 학습된 사용자의 얼굴 정보 저장 (encoding)
