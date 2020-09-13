@@ -13,16 +13,16 @@ Face-Recognition with ResNet + Door Lock Controller
 [ㅊㅊㅊㅊ]
 
 ## 2. 개발 환경
-Controller
- Rasberry Pi 3+ model
- python
+**Controller**
+ -Rasberry Pi 3+ model
+ -python
  
-Camera
- python (OpenCV + dlib + ResNet)
+**Camera**
+ -python (OpenCV + dlib + ResNet)
  
-Application
- Android studio
- JAVA
+**Application**
+ -Android studio
+ -JAVA
  
 ## 3. 개발 기간
  프로젝트 기간 : 20.03.16 ~ 20.06.12
